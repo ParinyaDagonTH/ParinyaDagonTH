@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParinyaDagonTH
-- 👀 I’m interested in Web Application, Block Chain 
+- 👀 I’m interested in Web Application, Block Chain Technology
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.facebook.com/parinyadagon
