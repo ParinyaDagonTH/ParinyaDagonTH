@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParinyaDagonTH
+- 👋 Hi, I’m Parinya Dagon
 - 👀 I’m interested in Web Application, Block Chain Technology
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
